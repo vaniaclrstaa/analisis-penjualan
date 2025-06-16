@@ -23,7 +23,7 @@ Data berisi:
 - GitHub
 
 ## 📊 Contoh Visualisasi
-![Grafik Penjualan] (grafik1.jpg)
+![Grafik Penjualan](grafik1.jpg)
 
 ## ✨ Catatan
 Ini adalah proyek latihan pribadi. Data masih dummy, tapi logika bisa diterapkan ke data nyata.
